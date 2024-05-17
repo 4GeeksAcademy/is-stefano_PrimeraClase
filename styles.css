@@ -1,0 +1,66 @@
+body{
+background-color: lightgray;
+}
+
+.post {
+    width: 34rem;
+    margin: auto;
+    background-color: white;
+}
+
+/* header post */
+.header{
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+    heig
+}
+
+.col1 {
+    margin: auto;
+    width: 10%;
+}
+
+.bi-person-circle{
+    font-size: xx-large;
+}
+
+.col2{
+    margin-top: -2px;
+    width: 20%;
+}
+
+.col3{
+    margin-left: 70%;
+    
+}
+
+.bi-list{
+
+}
+
+.bi-list::before{
+    font-size: xx-large;
+    margin-top: 15px;
+}
+
+
+
+/* imagen post */
+
+img{
+    width: 34rem;
+}
+
+/*footer*/
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.comentario{
+    margin-top: auto;
+    padding: 5px;
+}
